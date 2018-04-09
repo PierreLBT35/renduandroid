@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Earthquakes</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps">Maps</string>
+    <string name="list">List</string>
+    <string-array name="earthquakes_list">
+        <item>All</item>
+        <item>M1.0+</item>
+        <item>M2.5+</item>
+        <item>M4.5+</item>
+        <item>Significant</item>
+    </string-array>
+</resources>

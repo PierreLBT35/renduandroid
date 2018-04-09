@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Séismes</string>
+    <string-array name="earthquakes_list_names">
+        <item>t</item>
+        <item>M1.0+</item>
+        <item>M2.5+</item>
+        <item>M4.5+</item>
+        <item>Significant</item>
+    </string-array>
+</resources>
